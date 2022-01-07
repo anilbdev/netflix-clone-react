@@ -16,3 +16,6 @@
     max-height: 250px;
     margin-right: 10px;
 }
+.poster:hover{
+    transform: scale(1.06);
+}
